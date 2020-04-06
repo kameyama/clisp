@@ -1,0 +1,17 @@
+2020-03-22 20:19:42 [INFO] <KERNEL> Starting common-lisp kernel
+2020-03-22 20:19:42 [INFO] <KERNEL> Parsing connection file /Users/masaya/Library/Jupyter/runtime/kernel-4544460b-245a-46fe-a571-a3eecb87273c.json
+2020-03-22 20:19:42 [INFO] <MAC> Starting message authentification
+2020-03-22 20:19:42 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2020-03-22 20:19:42 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:58232
+2020-03-22 20:19:42 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:58229
+2020-03-22 20:19:42 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:58228
+2020-03-22 20:19:42 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:58230
+2020-03-22 20:19:42 [INFO] <HISTORY> Starting history
+2020-03-22 20:19:42 [INFO] <HB-CHANNEL> Starting thread
+2020-03-22 20:19:42 [INFO] <KERNEL> Handling kernel_info_request message
+2020-03-22 20:19:42 [INFO] <KERNEL> Handling kernel_info_request message
+2020-03-22 20:19:42 [INFO] <KERNEL> Handling comm_info_request message
+2020-03-22 20:19:56 [INFO] <KERNEL> Handling execute_request message
+2020-03-22 20:21:53 [INFO] <KERNEL> Handling execute_request message
+2020-03-22 20:40:01 [INFO] <KERNEL> Handling kernel_info_request message
+2020-03-22 20:40:01 [INFO] <KERNEL> Handling comm_info_request message

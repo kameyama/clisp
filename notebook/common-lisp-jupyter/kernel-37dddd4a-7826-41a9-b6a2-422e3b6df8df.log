@@ -1,0 +1,33 @@
+2020-03-12 18:39:23 [INFO] <KERNEL> Starting common-lisp kernel
+2020-03-12 18:39:23 [INFO] <KERNEL> Parsing connection file /Users/masaya/Library/Jupyter/runtime/kernel-37dddd4a-7826-41a9-b6a2-422e3b6df8df.json
+2020-03-12 18:39:23 [INFO] <MAC> Starting message authentification
+2020-03-12 18:39:23 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2020-03-12 18:39:23 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:65484
+2020-03-12 18:39:23 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:65481
+2020-03-12 18:39:23 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:65480
+2020-03-12 18:39:23 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:65482
+2020-03-12 18:39:23 [INFO] <HISTORY> Starting history
+2020-03-12 18:39:23 [INFO] <HB-CHANNEL> Starting thread
+2020-03-12 18:39:24 [INFO] <KERNEL> Handling kernel_info_request message
+2020-03-12 18:39:24 [INFO] <KERNEL> Handling kernel_info_request message
+2020-03-12 18:39:24 [INFO] <KERNEL> Handling comm_info_request message
+2020-03-12 18:41:23 [INFO] <KERNEL> Handling complete_request message
+2020-03-12 18:41:25 [INFO] <KERNEL> Handling complete_request message
+2020-03-12 18:41:26 [INFO] <KERNEL> Handling complete_request message
+2020-03-12 18:41:26 [INFO] <KERNEL> Handling complete_request message
+2020-03-12 18:41:27 [INFO] <KERNEL> Handling complete_request message
+2020-03-12 18:43:46 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:44:05 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:44:29 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:44:34 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:44:36 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:44:39 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:44:42 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:47:05 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:48:20 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:48:47 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:48:52 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 18:49:00 [INFO] <KERNEL> Handling complete_request message
+2020-03-12 18:49:20 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 19:05:32 [INFO] <KERNEL> Handling execute_request message
+2020-03-12 19:06:19 [INFO] <KERNEL> Handling execute_request message
