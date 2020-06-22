@@ -20,20 +20,25 @@
   (apply #'append (loop repeat *edge-num*
 		     collect (edge-pair (random-node) (random-node)))))
 
-(loop repeat 10
-   collect 1)
+;; (loop repeat 10
+;;    collect 1)
 
-(loop for n from 1 to 10
-   collect n)
+;; (loop for n from 1 to 10
+;;    collect n)
 
-(loop for n from 1 to 10
-   collect (+ 100 n))
+;; (loop for n from 1 to 10
+;;    collect (+ 100 n))
+
 
 (defun direct-edges (node edge-list)
   (remove-if-not (lambda (x)
 		   (eql (car x) node))
 		 edge-list))
 
+;; (defparameter city (make-edge-list))
+;; (direct-edges 2  city)
+
+;; complicated function (contains lambda function and labels)
 (defun get-connected (node edge-list)
   (let ((visited nil))
     (labels ((traverse (node)
@@ -45,12 +50,24 @@
       (traverse node))
     visited))
 
+;; (get-connected 2 city)
+
 ;;sample
 ;; (get-connected
 ;; (loop for i from 1 to *node-num*
 ;; 		   collect i)
 ;; (make-edge-list))
 
+
+;; (defparameter visited nil)
+;; (defun traverse (node)
+;; 	       (unless (member node visited)
+;; 		 (push node visited)
+;; 		 (mapc (lambda (edge)
+;; 			(traverse (cdr edge)))
+;; 		      (direct-edges node city))))
+;;
+;; (traverse 2)
 
 
 (defun find-islands (nodes edge-list)
@@ -65,7 +82,7 @@
     islands))
 
 
-
+;; (find-islands )
 
 (defun connect-with-bridges (islands)
   (when (cdr islands)
